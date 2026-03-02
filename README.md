@@ -1,2 +1,9 @@
 # CS-370-11964-M01-Current-Emerging-Trends-
 Projects and research focused on Artificial Intelligence and Reinforcement Learning for CS-370. This repository demonstrates the implementation of Deep Q-Learning (DQN) algorithms to solve pathfinding problems, alongside an analysis of emerging trends and ethical responsibilities in the AI landscape.
+
+
+# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+The initial framework for the project included a large dataset from the Austin Animal Center containing records of animals in the shelter system. I was also given the basic requirements for the rescue filters—specifically the breeds, sex, and age ranges required for Water Rescue, Mountain/Wilderness Rescue, and Disaster Tracking. I was responsible for developing the technical bridge between the database and the user interface. I authored a Python class that facilitates Create, Read, Update, and Delete operations with the MongoDB database using the pymongo library. I also built the visual structure using the Dash framework, integrating the Grazioso Salvare logo and a reactive DataTable.
+
+# Connect your learning from throughout this course to the larger field of computer science: What do computer scientists do and why does it matter? How do I approach a problem as a computer scientist? What are my ethical responsibilities to the end user and the organization?
+Computer scientists act as problem solvers who design and build software systems to process, manage, and visualize information. This matters because it transforms vast amounts of unorganized information into actionable insights. As a computer scientist, I have many ethical responsibilities. I must ensure the system I create is secure, efficient, and meets the specific business requirements of the company that I work for.
